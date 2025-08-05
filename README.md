@@ -44,22 +44,3 @@ If you'd like to report a bug or submit a feature request then please [use the i
 ## Changelog
 
 We try to log all changes big and small in both [THE CHANGELOG](https://github.com/lando/symfony/blob/main/CHANGELOG.md) and the [release notes](https://github.com/lando/symfony/releases).
-
-
-## Maintainers
-
-* [@pirog](https://github.com/pirog)
-* [@reynoldsalec](https://github.com/reynoldsalec)
-
-## Contributors
-
-<a href="https://github.com/lando/symfony/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lando/symfony" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
-
-## Other Selected Resources
-
-* [LICENSE](https://github.com/lando/symfony/blob/main/LICENSE.md)
-* [The best professional advice ever](https://www.youtube.com/watch?v=tkBVDh7my9Q)
