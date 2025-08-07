@@ -1,3 +1,0 @@
-name: stealth-plugin-loader
-plugins:
-  "@lando/symfony": ..

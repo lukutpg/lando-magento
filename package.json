@@ -1,7 +1,7 @@
 {
   "name": "@lukutpg/lando-magento",
   "description": "A Lando plugin that provides a tight integration with Magento.",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "author": "Pavel Lukuts",
   "license": "MIT",
   "repository": {
