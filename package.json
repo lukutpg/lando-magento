@@ -1,7 +1,7 @@
 {
   "name": "@lukutpg/lando-magento",
   "description": "A Lando plugin that provides a tight integration with Magento.",
-  "version": "1.10.3",
+  "version": "1.10.4",
   "author": "Pavel Lukuts",
   "license": "MIT",
   "repository": {
@@ -50,18 +50,18 @@
   },
   "dependencies": {
     "@lando/elasticsearch": "^1.3.3",
-    "@lando/mariadb": "^1.6.3",
-    "@lando/memcached": "^1.3.3",
-    "@lando/mysql": "^1.4.4",
-    "@lando/php": "^1.7.1",
-    "@lando/postgres": "^1.4.4",
+    "@lando/mariadb": "^1.7.0",
+    "@lando/memcached": "^1.4.2",
+    "@lando/mysql": "^1.6.0",
+    "@lando/php": "^1.8.0",
+    "@lando/postgres": "^1.5.0",
     "@lando/redis": "^1.2.3",
     "@lando/varnish": "^1.3.1",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.10",
-    "@lando/leia": "^1.0.0-beta.3",
+    "@lando/leia": "^0.6.7",
     "@lando/vitepress-theme-default-plus": "^1.1.1",
     "chai": "^4.3.4",
     "command-line-test": "^1.0.10",
@@ -73,6 +73,17 @@
     "vitepress": "^1.3.4"
   },
   "bundledDependencies": [
+    "@lando/elasticsearch",
+    "@lando/mariadb",
+    "@lando/memcached",
+    "@lando/mysql",
+    "@lando/php",
+    "@lando/postgres",
+    "@lando/redis",
+    "@lando/varnish",
+    "lodash"
+  ],
+  "bundleDependencies": [
     "@lando/elasticsearch",
     "@lando/mariadb",
     "@lando/memcached",
